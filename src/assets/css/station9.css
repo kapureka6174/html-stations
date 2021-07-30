@@ -57,11 +57,11 @@ nav {
 
 @media (max-width:320px) {
   .card__title {
-    display: none;
+    font-size: 10px;
   }
 
   .card__description {
-    font-size: 10px;
+    display: none;
   }
 }
 
