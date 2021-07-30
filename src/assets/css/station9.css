@@ -57,7 +57,7 @@ nav {
 
 @media (max-width:320px) {
   .card__title {
-    visibility: hidden;
+    display: none;
   }
 
   .card__description {
