@@ -65,7 +65,7 @@ nav {
   }
 }
 
-@media (min-width:320px) and (max-width:768px) {
+@media (min-width:321px) and (max-width:768px) {
   .card__title {
     font-size: 12px;
   }
